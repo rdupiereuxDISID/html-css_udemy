@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+header{
+    width: 1000px;
+    height: 120px;
+    background: #444;
+
+    position: relative;
+    margin: auto; /* Ponemos el margen en automático pero funciona así -> margin: 50px (top) 30px (left); */
+}
+
+nav{
+    width: 1000px;
+    height: 48px;
+    background: #aaa;
+
+    position: relative;
+    margin: auto;
+}
